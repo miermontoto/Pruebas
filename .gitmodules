@@ -1,3 +1,6 @@
 [submodule "PL/pruebas-entrega1"]
 	path = PL/pruebas-entrega1
 	url = https://github.com/miermontoto/pruebas-entrega1
+[submodule "PL/pruebas-entrega2"]
+	path = PL/pruebas-entrega2
+	url = https://github.com/miermontoto/pruebas-entrega2
