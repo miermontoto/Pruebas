@@ -4,3 +4,9 @@
 [submodule "PL/pruebas-entrega2"]
 	path = PL/pruebas-entrega2
 	url = https://github.com/miermontoto/pruebas-entrega2
+[submodule "pruebas-teorico1"]
+	path = pruebas-teorico1
+	url = https://github.com/miermontoto/pruebas-teorico1
+[submodule "pruebas-teorico2"]
+	path = pruebas-teorico2
+	url = https://github.com/miermontoto/pruebas-teorico2

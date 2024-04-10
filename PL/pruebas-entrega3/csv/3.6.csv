@@ -1,1 +1,2 @@
-NIF,Nombre,Apellido,FechaNacimiento,Sexo,Club
+NIF,IDCompeticion,Cantidad,FechaPago
+33,4,50,2020-04-29

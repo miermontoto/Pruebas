@@ -17,7 +17,7 @@ NIF,Nombre,Apellido,FechaNacimiento,Sexo,Club
 15,George,Orbad,1990-01-01,M,Mala Vista
 16,Jazmine,Aguas,1995-01-01,F,Mala Vista
 17,Julio,Catedrales,2000-01-01,M,Mala Vista
-18,Alberto,Gutierrez,2005-01-01,F,Social Club
+18,Alberto,Gutierrez,2000-01-01,F,Social Club
 19,Lucia,Flores,1945-01-01,M,Social Club
 20,Joaquin,Orbad,1950-01-01,F,Social Club
 21,Maria,Aguas,1955-01-01,M,Social Club
@@ -30,15 +30,15 @@ NIF,Nombre,Apellido,FechaNacimiento,Sexo,Club
 28,Xavier,Tir,1990-01-01,M,Social Club
 29,Silvia,Joya,1995-01-01,F,Social Club
 30,Antonio,Ramirez,2000-01-01,M,Social Club
-31,Matilde,Font,2005-01-01,F,Social Club
-32,George,Gallego,2010-01-01,M,Social Club
-33,Jonay,Font,2010-02-01,M,Social Club
+31,Matilde,Font,2000-01-01,F,Social Club
+32,George,Gallego,2000-01-01,M,Social Club
+33,Jonay,Font,2000-02-01,M,Social Club
 
 # No inscritos
 NIF,Nombre,Apellido,FechaNacimiento,G�nero,Club
 34,Manolo,Iglesias,1990-01-01,M,Nueva Vista
 35,Laura,Ramos,1995-01-01,F,Nueva Vista
 36,Jose,Martinez,2000-01-01,M,Nueva Vista
-37,Carolina,Suarez,2005-01-01,F,
-38,Mauricio,Rodriguez,2010-01-01,M,
-39,Ines,Herrera,2010-01-01,F,
+37,Carolina,Suarez,2000-01-01,F,
+38,Mauricio,Rodriguez,2000-01-01,M,
+39,Ines,Herrera,2000-01-01,F,
